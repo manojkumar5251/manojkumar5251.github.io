@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "e4a1fca9b805161eeffd",
-    "url": "/scholarship-test/static/js/main.e4a1fca9.chunk.js"
+    "revision": "c2f81fa0b8ba42b1e271",
+    "url": "/scholarship-test/static/js/main.c2f81fa0.chunk.js"
   },
   {
     "revision": "96c4691ea9b0e779b202",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/scholarship-test/static/media/kit.9a2562fd.jpg"
   },
   {
-    "revision": "913b737c5eae7af0ea485ef40399989a",
+    "revision": "d79c108300645107ce19474c31822fa1",
     "url": "/scholarship-test/index.html"
   }
 ];
